@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages (now with HTML!)
+## Welcome to GitHub Pages (now with markdown!)
 
 You can use the [editor on GitHub](https://github.com/Toastyroasty/toastyroasty.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
