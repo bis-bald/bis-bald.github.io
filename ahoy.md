@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages (again)
 
-(Ahoy! Didn't expect to see you here. If you like variety, well, you won't find any of that below.)
+(Ahoy! Didn't expect to see you here. If you like variety, well, you won't find any of that below. Why not head back [home](index.md)?
 
 You can use the [editor on GitHub](https://github.com/Toastyroasty/toastyroasty.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
